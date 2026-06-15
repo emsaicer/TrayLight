@@ -1,0 +1,5 @@
+.vscode/
+.clangd
+.clang-format
+config.ini
+*.exe
